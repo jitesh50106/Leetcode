@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/jitesh50106/Leetcode/tree/master/0342-power-of-four) |
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/jitesh50106/Leetcode/tree/master/0205-isomorphic-strings) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/jitesh50106/Leetcode/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
