@@ -23,11 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/jitesh50106/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/jitesh50106/Leetcode/tree/master/0383-ransom-note) |
 | [2540-minimum-common-value](https://github.com/jitesh50106/Leetcode/tree/master/2540-minimum-common-value) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/jitesh50106/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/jitesh50106/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/jitesh50106/Leetcode/tree/master/0383-ransom-note) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/jitesh50106/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Counting
 |  |
 | ------- |
