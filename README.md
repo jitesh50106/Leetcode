@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0228-summary-ranges](https://github.com/jitesh50106/Leetcode/tree/master/0228-summary-ranges) |
 | [0746-min-cost-climbing-stairs](https://github.com/jitesh50106/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/jitesh50106/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jitesh50106/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/jitesh50106/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jitesh50106/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/jitesh50106/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jitesh50106/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jitesh50106/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/jitesh50106/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
