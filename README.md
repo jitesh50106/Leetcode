@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/jitesh50106/Leetcode/tree/master/0043-multiply-strings) |
 | [0342-power-of-four](https://github.com/jitesh50106/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/jitesh50106/Leetcode/tree/master/0509-fibonacci-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jitesh50106/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/jitesh50106/Leetcode/tree/master/0043-multiply-strings) |
 | [0205-isomorphic-strings](https://github.com/jitesh50106/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/jitesh50106/Leetcode/tree/master/0383-ransom-note) |
 | [1021-remove-outermost-parentheses](https://github.com/jitesh50106/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/jitesh50106/Leetcode/tree/master/0043-multiply-strings) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/jitesh50106/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3838-weighted-word-mapping](https://github.com/jitesh50106/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Number Theory
