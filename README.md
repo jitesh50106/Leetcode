@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jitesh50106/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2409-count-days-spent-together](https://github.com/jitesh50106/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/jitesh50106/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3340-check-balanced-string](https://github.com/jitesh50106/Leetcode/tree/master/3340-check-balanced-string) |
 | [3838-weighted-word-mapping](https://github.com/jitesh50106/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Counting
 |  |
