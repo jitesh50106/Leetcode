@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/jitesh50106/Leetcode/tree/master/0055-jump-game) |
 | [0128-longest-consecutive-sequence](https://github.com/jitesh50106/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0228-summary-ranges](https://github.com/jitesh50106/Leetcode/tree/master/0228-summary-ranges) |
 | [0739-daily-temperatures](https://github.com/jitesh50106/Leetcode/tree/master/0739-daily-temperatures) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/jitesh50106/Leetcode/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/jitesh50106/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/jitesh50106/Leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/jitesh50106/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/jitesh50106/Leetcode/tree/master/0055-jump-game) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jitesh50106/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/jitesh50106/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
