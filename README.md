@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/jitesh50106/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/jitesh50106/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2409-count-days-spent-together](https://github.com/jitesh50106/Leetcode/tree/master/2409-count-days-spent-together) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/jitesh50106/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jitesh50106/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jitesh50106/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/jitesh50106/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -24,12 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/jitesh50106/Leetcode/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/jitesh50106/Leetcode/tree/master/0342-power-of-four) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/jitesh50106/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/jitesh50106/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Recursion
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/jitesh50106/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/jitesh50106/Leetcode/tree/master/0509-fibonacci-number) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/jitesh50106/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/jitesh50106/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/jitesh50106/Leetcode/tree/master/0067-add-binary) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/jitesh50106/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/jitesh50106/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3838-weighted-word-mapping](https://github.com/jitesh50106/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Number Theory
 |  |
