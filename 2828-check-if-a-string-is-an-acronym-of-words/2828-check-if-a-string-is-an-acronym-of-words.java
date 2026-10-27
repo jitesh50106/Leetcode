@@ -3,11 +3,15 @@ class Solution {
         if(words.size()!=s.length()){
             return false;
         }
-        for(int i = 0;i<s.length();i++){
-            if(words.get(i).charAt(0)!=s.charAt(i)){
-               return false;
-            }
+        return check(words,s,0);
+    }
+    private boolean check(List<String> words, String s , int i){
+        if(words.size()==i){
+            return true;
         }
-        return true;
+        if(words.get(i).charAt(0)!=s.charAt(i)){
+            return false;
+        }
+        return check(words,s,i+1);
     }
 }
