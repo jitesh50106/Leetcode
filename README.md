@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/jitesh50106/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/jitesh50106/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/jitesh50106/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1688-count-of-matches-in-tournament](https://github.com/jitesh50106/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2409-count-days-spent-together](https://github.com/jitesh50106/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/jitesh50106/Leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/jitesh50106/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/jitesh50106/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/jitesh50106/Leetcode/tree/master/0067-add-binary) |
+| [1688-count-of-matches-in-tournament](https://github.com/jitesh50106/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/jitesh50106/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/jitesh50106/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3838-weighted-word-mapping](https://github.com/jitesh50106/Leetcode/tree/master/3838-weighted-word-mapping) |
