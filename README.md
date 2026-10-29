@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/jitesh50106/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jitesh50106/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1991-find-the-middle-index-in-array](https://github.com/jitesh50106/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/jitesh50106/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jitesh50106/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/jitesh50106/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/jitesh50106/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/jitesh50106/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jitesh50106/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/jitesh50106/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/jitesh50106/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jitesh50106/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/jitesh50106/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/jitesh50106/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/jitesh50106/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/jitesh50106/Leetcode/tree/master/2540-minimum-common-value) |
 ## Simulation
 |  |
