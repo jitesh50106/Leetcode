@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/jitesh50106/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jitesh50106/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jitesh50106/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/jitesh50106/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/jitesh50106/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/jitesh50106/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jitesh50106/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jitesh50106/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/jitesh50106/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/jitesh50106/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/jitesh50106/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3838-weighted-word-mapping](https://github.com/jitesh50106/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jitesh50106/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
