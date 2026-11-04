@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/jitesh50106/Leetcode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/jitesh50106/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/jitesh50106/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/jitesh50106/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0896-monotonic-array](https://github.com/jitesh50106/Leetcode/tree/master/0896-monotonic-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/jitesh50106/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/jitesh50106/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jitesh50106/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/jitesh50106/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/jitesh50106/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jitesh50106/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/jitesh50106/Leetcode/tree/master/2540-minimum-common-value) |
 ## Simulation
@@ -233,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/jitesh50106/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/jitesh50106/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
