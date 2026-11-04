@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/jitesh50106/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jitesh50106/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0228-summary-ranges](https://github.com/jitesh50106/Leetcode/tree/master/0228-summary-ranges) |
+| [0334-increasing-triplet-subsequence](https://github.com/jitesh50106/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/jitesh50106/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/jitesh50106/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0739-daily-temperatures](https://github.com/jitesh50106/Leetcode/tree/master/0739-daily-temperatures) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/jitesh50106/Leetcode/tree/master/0055-jump-game) |
+| [0334-increasing-triplet-subsequence](https://github.com/jitesh50106/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/jitesh50106/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jitesh50106/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2706-buy-two-chocolates](https://github.com/jitesh50106/Leetcode/tree/master/2706-buy-two-chocolates) |
@@ -239,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jitesh50106/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/jitesh50106/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
