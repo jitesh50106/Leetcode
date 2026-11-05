@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/jitesh50106/Leetcode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/jitesh50106/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/jitesh50106/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0766-toeplitz-matrix](https://github.com/jitesh50106/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jitesh50106/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0896-monotonic-array](https://github.com/jitesh50106/Leetcode/tree/master/0896-monotonic-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/jitesh50106/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
@@ -250,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/jitesh50106/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+## Matrix
+|  |
+| ------- |
+| [0766-toeplitz-matrix](https://github.com/jitesh50106/Leetcode/tree/master/0766-toeplitz-matrix) |
 <!---LeetCode Topics End-->
