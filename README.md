@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/jitesh50106/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0896-monotonic-array](https://github.com/jitesh50106/Leetcode/tree/master/0896-monotonic-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/jitesh50106/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/jitesh50106/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/jitesh50106/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jitesh50106/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/jitesh50106/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/jitesh50106/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/jitesh50106/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jitesh50106/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/jitesh50106/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jitesh50106/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/jitesh50106/Leetcode/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/jitesh50106/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/jitesh50106/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jitesh50106/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/jitesh50106/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/jitesh50106/Leetcode/tree/master/2540-minimum-common-value) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jitesh50106/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/jitesh50106/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jitesh50106/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/jitesh50106/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jitesh50106/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/jitesh50106/Leetcode/tree/master/2540-minimum-common-value) |
 ## Simulation
