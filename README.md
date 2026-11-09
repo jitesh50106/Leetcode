@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jitesh50106/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2390-removing-stars-from-a-string](https://github.com/jitesh50106/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/jitesh50106/Leetcode/tree/master/2409-count-days-spent-together) |
+| [2785-sort-vowels-in-a-string](https://github.com/jitesh50106/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/jitesh50106/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/jitesh50106/Leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/jitesh50106/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jitesh50106/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/jitesh50106/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2706-buy-two-chocolates](https://github.com/jitesh50106/Leetcode/tree/master/2706-buy-two-chocolates) |
+| [2785-sort-vowels-in-a-string](https://github.com/jitesh50106/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/jitesh50106/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
