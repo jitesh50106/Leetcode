@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/jitesh50106/Leetcode/tree/master/0055-jump-game) |
 | [0128-longest-consecutive-sequence](https://github.com/jitesh50106/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jitesh50106/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/jitesh50106/Leetcode/tree/master/0162-find-peak-element) |
 | [0228-summary-ranges](https://github.com/jitesh50106/Leetcode/tree/master/0228-summary-ranges) |
 | [0334-increasing-triplet-subsequence](https://github.com/jitesh50106/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/jitesh50106/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jitesh50106/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/jitesh50106/Leetcode/tree/master/0162-find-peak-element) |
 | [0633-sum-of-square-numbers](https://github.com/jitesh50106/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jitesh50106/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/jitesh50106/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
