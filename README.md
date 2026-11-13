@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/jitesh50106/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/jitesh50106/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/jitesh50106/Leetcode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/jitesh50106/Leetcode/tree/master/0383-ransom-note) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/jitesh50106/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2540-minimum-common-value](https://github.com/jitesh50106/Leetcode/tree/master/2540-minimum-common-value) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/jitesh50106/Leetcode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/jitesh50106/Leetcode/tree/master/0383-ransom-note) |
 | [2029-stone-game-ix](https://github.com/jitesh50106/Leetcode/tree/master/2029-stone-game-ix) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/jitesh50106/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jitesh50106/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/jitesh50106/Leetcode/tree/master/0162-find-peak-element) |
 | [0228-summary-ranges](https://github.com/jitesh50106/Leetcode/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/jitesh50106/Leetcode/tree/master/0229-majority-element-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/jitesh50106/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/jitesh50106/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/jitesh50106/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/jitesh50106/Leetcode/tree/master/0229-majority-element-ii) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/jitesh50106/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/jitesh50106/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/jitesh50106/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -296,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/jitesh50106/Leetcode/tree/master/2029-stone-game-ix) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/jitesh50106/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
