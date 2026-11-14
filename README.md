@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/jitesh50106/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jitesh50106/Leetcode/tree/master/0055-jump-game) |
 | [0128-longest-consecutive-sequence](https://github.com/jitesh50106/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jitesh50106/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/jitesh50106/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jitesh50106/Leetcode/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/jitesh50106/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/jitesh50106/Leetcode/tree/master/0509-fibonacci-number) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/jitesh50106/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jitesh50106/Leetcode/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/jitesh50106/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/jitesh50106/Leetcode/tree/master/0680-valid-palindrome-ii) |
