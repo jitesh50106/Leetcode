@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/jitesh50106/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/jitesh50106/Leetcode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/jitesh50106/Leetcode/tree/master/0383-ransom-note) |
+| [0567-permutation-in-string](https://github.com/jitesh50106/Leetcode/tree/master/0567-permutation-in-string) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/jitesh50106/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2540-minimum-common-value](https://github.com/jitesh50106/Leetcode/tree/master/2540-minimum-common-value) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/jitesh50106/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/jitesh50106/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/jitesh50106/Leetcode/tree/master/0392-is-subsequence) |
 | [0504-base-7](https://github.com/jitesh50106/Leetcode/tree/master/0504-base-7) |
+| [0567-permutation-in-string](https://github.com/jitesh50106/Leetcode/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/jitesh50106/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/jitesh50106/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jitesh50106/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/jitesh50106/Leetcode/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/jitesh50106/Leetcode/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/jitesh50106/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0905-sort-array-by-parity](https://github.com/jitesh50106/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/jitesh50106/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/jitesh50106/Leetcode/tree/master/0567-permutation-in-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jitesh50106/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Counting Sort
 |  |
